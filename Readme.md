@@ -23,7 +23,7 @@ A powerful AI chat assistant that combines agent-based interactions with RAG cap
   - LangChain
   - Groq
   - FAISS Vector Store
-  - Ollama Embeddings
+  - HuggingFace Embeddings
 - **Additional Tools**:
   - Flask-CORS for cross-origin support
   - Various LangChain tools (Wikipedia, DuckDuckGo, Arxiv)
