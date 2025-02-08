@@ -32,7 +32,6 @@ A powerful AI chat assistant that combines agent-based interactions with RAG cap
 
 - Python 3.8+
 - Groq API key
-- Ollama running locally
 - Docker & Docker Compose installed
 
 ## 🚀 Installation
