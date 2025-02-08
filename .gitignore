@@ -1,0 +1,24 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+
+# Ignore dependencies (if using pip freeze)
+backend/requirements.txt
+frontend/requirements.txt
+
+# Ignore temporary or cache files
+temp_files/
+*.log
+
+# Ignore Streamlit cache (optional)
+frontend/.streamlit/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
